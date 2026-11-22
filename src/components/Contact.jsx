@@ -41,10 +41,10 @@ const contactLinks = [
   },
   {
     title: "LinkedIn",
-    value: "linkedin.com/in/aman-dhiman",
+    value: "linkedin.com/in/aman-dhiman-2b1864287",
     icon: RiLinkedinBoxFill,
-    href: "https://linkedin.com/in/aman-dhiman",
-    label: "in/aman-dhiman",
+    href: "https://www.linkedin.com/in/aman-dhiman-2b1864287/",
+    label: "in/aman-dhiman-2b1864287",
   },
   {
     title: "GitHub",
@@ -380,7 +380,7 @@ const Contact = () => {
           </p>
           <div className="flex items-center gap-4 text-[#949494]">
             <a
-              href="https://linkedin.com/in/aman-dhiman"
+              href="https://www.linkedin.com/in/aman-dhiman-2b1864287/"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-[#00ffae] transition"

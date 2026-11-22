@@ -49,11 +49,11 @@ export const personalInfo = {
   email: "aman240dhiman@gmail.com",
   phone: "+91-8278872003",
   whatsapp: "+918278872003",
-  github: "https://github.com",
-  linkedin: "https://linkedin.com/in/aman-dhiman",
+  github: "https://github.com/AmanDhiman2001",
+  linkedin: "https://www.linkedin.com/in/aman-dhiman-2b1864287/",
   portfolio: "http://localhost:5173",
-  kartoUrl: "https://linkedin.com/in/aman-dhiman",
-  kartoPlayStore: "https://linkedin.com/in/aman-dhiman",
+  kartoUrl: "https://www.linkedin.com/in/aman-dhiman-2b1864287/",
+  kartoPlayStore: "https://www.linkedin.com/in/aman-dhiman-2b1864287/",
   resumeLink: "mailto:aman240dhiman@gmail.com?subject=CV%20Request%20-%20Aman%20Dhiman",
   photo: aman,
   photoNoir: aman,
@@ -188,7 +188,7 @@ export const achievements = [
       "Focused on writing clean, efficient, maintainable, and well-tested code.",
       "Reliable team player with a deadline-oriented mindset across hybrid and agile teams."
     ],
-    credential: ["https://linkedin.com/in/aman-dhiman"],
+    credential: ["https://www.linkedin.com/in/aman-dhiman-2b1864287/"],
   },
   {
     title: ["Industrial Training in ASP.NET MVC & Web API"],
@@ -201,7 +201,7 @@ export const achievements = [
       "Engineered full-stack Online Book Store application with catalog, cart, and admin portals.",
       "Strengthened backend logic, database design, and MVC architecture."
     ],
-    credential: ["https://linkedin.com/in/aman-dhiman"],
+    credential: ["https://www.linkedin.com/in/aman-dhiman-2b1864287/"],
   },
   {
     title: ["Cloud & Microservices Integrations"],
@@ -214,7 +214,7 @@ export const achievements = [
       "Microsoft Bot Framework & LUIS AI conversational chatbot integration.",
       "Azure Containers containerized deployment management and Twilio automation."
     ],
-    credential: ["https://linkedin.com/in/aman-dhiman"],
+    credential: ["https://www.linkedin.com/in/aman-dhiman-2b1864287/"],
   },
 ];
 
@@ -239,9 +239,9 @@ export const projects = [
     ],
     image: karto3d,
     images: [karto3d, karto],
-    source_code_link: "https://linkedin.com/in/aman-dhiman",
-    live_demo_link: "https://linkedin.com/in/aman-dhiman",
-    play_store_link: "https://linkedin.com/in/aman-dhiman",
+    source_code_link: "https://www.linkedin.com/in/aman-dhiman-2b1864287/",
+    live_demo_link: "https://www.linkedin.com/in/aman-dhiman-2b1864287/",
+    play_store_link: "https://www.linkedin.com/in/aman-dhiman-2b1864287/",
     metrics: {
       stars: 215,
       forks: 48,
@@ -275,8 +275,8 @@ export const projects = [
     ],
     image: natgashub,
     images: [natgashub],
-    source_code_link: "https://linkedin.com/in/aman-dhiman",
-    live_demo_link: "https://linkedin.com/in/aman-dhiman",
+    source_code_link: "https://www.linkedin.com/in/aman-dhiman-2b1864287/",
+    live_demo_link: "https://www.linkedin.com/in/aman-dhiman-2b1864287/",
     metrics: {
       stars: 184,
       forks: 36,
@@ -307,8 +307,8 @@ export const projects = [
     ],
     image: malariadetectionsystem,
     images: [malariadetectionsystem],
-    source_code_link: "https://linkedin.com/in/aman-dhiman",
-    live_demo_link: "https://linkedin.com/in/aman-dhiman",
+    source_code_link: "https://www.linkedin.com/in/aman-dhiman-2b1864287/",
+    live_demo_link: "https://www.linkedin.com/in/aman-dhiman-2b1864287/",
     metrics: {
       stars: 165,
       forks: 32,
@@ -339,8 +339,8 @@ export const projects = [
     ],
     image: labmate,
     images: [labmate],
-    source_code_link: "https://linkedin.com/in/aman-dhiman",
-    live_demo_link: "https://linkedin.com/in/aman-dhiman",
+    source_code_link: "https://www.linkedin.com/in/aman-dhiman-2b1864287/",
+    live_demo_link: "https://www.linkedin.com/in/aman-dhiman-2b1864287/",
     metrics: {
       stars: 142,
       forks: 28,
@@ -371,8 +371,8 @@ export const projects = [
     ],
     image: homescape,
     images: [homescape],
-    source_code_link: "https://linkedin.com/in/aman-dhiman",
-    live_demo_link: "https://linkedin.com/in/aman-dhiman",
+    source_code_link: "https://www.linkedin.com/in/aman-dhiman-2b1864287/",
+    live_demo_link: "https://www.linkedin.com/in/aman-dhiman-2b1864287/",
     metrics: {
       stars: 135,
       forks: 24,
@@ -403,8 +403,8 @@ export const projects = [
     ],
     image: greencross,
     images: [greencross],
-    source_code_link: "https://linkedin.com/in/aman-dhiman",
-    live_demo_link: "https://linkedin.com/in/aman-dhiman",
+    source_code_link: "https://www.linkedin.com/in/aman-dhiman-2b1864287/",
+    live_demo_link: "https://www.linkedin.com/in/aman-dhiman-2b1864287/",
     metrics: {
       stars: 122,
       forks: 21,
@@ -435,8 +435,8 @@ export const projects = [
     ],
     image: bytecraft,
     images: [bytecraft],
-    source_code_link: "https://linkedin.com/in/aman-dhiman",
-    live_demo_link: "https://linkedin.com/in/aman-dhiman",
+    source_code_link: "https://www.linkedin.com/in/aman-dhiman-2b1864287/",
+    live_demo_link: "https://www.linkedin.com/in/aman-dhiman-2b1864287/",
     metrics: {
       stars: 114,
       forks: 18,
@@ -467,8 +467,8 @@ export const projects = [
     ],
     image: mimihotels,
     images: [mimihotels],
-    source_code_link: "https://linkedin.com/in/aman-dhiman",
-    live_demo_link: "https://linkedin.com/in/aman-dhiman",
+    source_code_link: "https://www.linkedin.com/in/aman-dhiman-2b1864287/",
+    live_demo_link: "https://www.linkedin.com/in/aman-dhiman-2b1864287/",
     metrics: {
       stars: 98,
       forks: 16,

@@ -29,4 +29,4 @@ A high-performance developer portfolio featuring immersive 3D animations, intera
 - **Email**: aman240dhiman@gmail.com
 - **Phone**: +91-8278872003
 - **Location**: Mohali, Punjab, India
-- **LinkedIn**: [linkedin.com/in/aman-dhiman](https://linkedin.com/in/aman-dhiman)
+- **LinkedIn**: [linkedin.com/in/aman-dhiman-2b1864287](https://www.linkedin.com/in/aman-dhiman-2b1864287/)
